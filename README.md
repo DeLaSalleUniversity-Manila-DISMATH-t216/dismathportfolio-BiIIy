@@ -106,8 +106,9 @@ dismathportfolio-fidesbetito created by Classroom for GitHub
         2. Show that step 1 will end up in a contradiction
   
 * **Proof by Equivalence**
-    - To prove a theorem that a bio conditional statement, _p↔q_, we show that
-         _(p↔q)→[(p→q)∧(q→p)]_
+    - To prove a theorem that a bio conditional statement, _p↔q_,. 
+    - we show that:
+        _(p↔q)→[(p→q)∧(q→p)]_
   
   ##Week 5:
   
