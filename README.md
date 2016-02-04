@@ -87,25 +87,26 @@ dismathportfolio-fidesbetito created by Classroom for GitHub
         1. Software - debug a program beyond a doubt
         2. Hardware - useful in debug before pre-production hardware
 
-* **Direct Proof**
-        1. Assume _p_ is _T_
-        2. Show that _q_ is also true
+* **Direct Proof**:
+    - 1. Assume _p_ is _T_
+    - 2. Show that _q_ is also true
 
 ### Week 4:
 
 * Continuation of Methods of Proof
 
-* **Contraposition (Indirect)**
-        1. Assume _¬q_ is _T_
-        2. Show that _¬p_ is also true
+* **Contraposition (Indirect)**:
+    - 1. Assume _¬q_ is _T_
+    - 2. Show that _¬p_ is also true
 
 
-* **PROOF BY CONTRADICTION**
-        1. Assume that the premise is not true
-          ¬(premise)≡ T
-        2. Show that step 1 will end up in a contradiction
+* **PROOF BY CONTRADICTION**:
+    - 1. Assume that the premise is not true
+       - ¬(premise)≡ T
+    - 2. Show that step 1 will end up in a contradiction
+    
   
-* **Proof by Equivalence**
+* **Proof by Equivalence**:
     - To prove a theorem that a bio conditional statement, _p↔q_,
     - we show that
          - _(p↔q)→[(p→q)∧(q→p)]_
