@@ -112,5 +112,16 @@ dismathportfolio-fidesbetito created by Classroom for GitHub
          - _(p↔q)→[(p→q)∧(q→p)]_
   
   ##Week 5:
+
+* This week I learn **Counterexample**
+    - uses an example to disprove a statement
   
-  ###To be continued...
+* **Mathematical Induction**:
+    - We treat the sequence of propositions like dominoes.
+    - Q.E.D. (quod erat demonstrandum)
+       - "which is what had to be proven" or signals the completion of the proof.
+    - Show P(1) ≡ T
+    - Direct proof
+      a. Assume P(k) ≡ T
+      b. Show that is also P(k+1) true
+
