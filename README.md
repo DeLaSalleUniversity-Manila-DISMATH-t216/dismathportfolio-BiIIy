@@ -122,6 +122,6 @@ dismathportfolio-fidesbetito created by Classroom for GitHub
        - "which is what had to be proven" or signals the completion of the proof.
     - Show P(1) ≡ T
     - Direct proof
-      a. Assume P(k) ≡ T
-      b. Show that is also P(k+1) true
+       - a. Assume P(k) ≡ T
+       - b. Show that is also P(k+1) true
 
