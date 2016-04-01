@@ -392,5 +392,6 @@ dismathportfolio-fidesbetito created by Classroom for GitHub
 		* drawn in the plane without edges having to cross.
 	* Nonplanar Graph
 		* when everything is interconnected to one another
-  ##Week 13:
+
+## **Week 13:**
    -May the odds be so ever in my favor
