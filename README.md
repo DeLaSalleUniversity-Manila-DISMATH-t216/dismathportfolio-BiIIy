@@ -277,3 +277,120 @@ dismathportfolio-fidesbetito created by Classroom for GitHub
 
   ##Week 10:
   -Pray to God what I studied comes out in the exam
+  -This week, we were introduced to growth of functions.
+	* Using Big-O, Big-Ω and Big-ϴ
+	* In Big-O, we are looking for the upper bound size of f(x).
+	* In Big-O, let f and G be functions from Real numbers to Real numbers where f(x) is O(g(x)) if there are constants C and k such that:
+	
+			|f(x)| ≤ C|g(x)| where x > k
+			C and k are the witnesses of Big-O
+
+		* Example:
+			
+				x^2 + 2x + 1 is O(x^2) 
+				x^2 + 2x + 1 is O(x^3)
+				x^2 + 2x + 1 is O(x^4)
+
+	* Same as in Big-Ω, but in this function, we are looking for the lower bound of f(x).
+	
+		* Example:
+		
+				x^2 + 2x + 1 is Ω(x^2)
+				x^2 + 2x + 1 is Ω(x)
+
+	* Lastly, in Big-ϴ, we are looking for both the lower and upper bound size of f(x).
+	
+		* Example:
+		
+				x^2 + 2x + 1 is ϴ(x^2)
+
+		* There is only one answer in Big-ϴ.
+
+* Next, Time Complexity in Algorithm, and Division and Modulo Operator
+	
+	* Time Complexity
+		* can be expressed in terms of the number of operations used by the algorithms.
+		* number of comparisons will be used as the measure of the time complexity.
+	
+		| Complexity | Terminology |
+		| :---: | :---: |
+		| ϴ(1) | constant complexity |
+		| ϴ(logn) | log complexity |
+		| ϴ(n) | linear complexity |
+
+		* Time complexity of finding max comparison: 2n-1, ϴ(n)
+		* Time complexity of linear search: 2n+2, ϴ(n)
+	
+	* Division and Modulo
+	
+			* Example:
+				Let a = integer, d = positive integer
+				Unique integers Q and r
+					with 0<=r<d such that a=dQ+r
+				9 mod 2 = 1 (r)
+				9 div 2 = 4 (Q)
+				a=d*Q+r
+				a=2*4+1
+				a=9
+
+	* Last topic for quiz 2: Ceasar Cipher
+	
+			* How can you make your message secret?
+				Example:
+				LOVE = ORYH
+				(p+3) mod 26
+
+## **Week 11:**
+* **NO CLASSES**
+
+## **Week 12:**
+* We discussed about Graph Theory.
+	* Graph
+		* discrete structures consisting of vertices and edges that connect the vertices.
+		* a set composed of vertices and edges. (V,E)
+			* G={V,E}
+	* Application
+		* Networks
+		* Job Assignments
+	* Basic Terminology
+		* degree of a vertex in an undirected graph is the number of edges incident with it, except that the loop at a vertex contributes twice to the degree of that vertex.
+	* Handshaking Theorem
+		* Let G=(V,E) be an undirected graph with edges.
+		
+				Then,
+					2e = ∑deg(v)
+					where v=V
+
+		* For example, how many edges are there in a graph with 10 vertices each of the degree 6?
+		
+				10 x 6 = 60
+				2e = 60
+				e = 30 edges
+
+	* Subgraph of a graph
+		* G=(V,E) is a graph of H=(W,F), where W ⊆ V and F ⊆ E
+		* subgraph of H of G is a proper subgraph of G if H ≠ G
+	* Path
+		* sequence of edges that begins at a vertex of a graph and travels from vertex to vertex along edges of the graph.
+	* Euler Ciruit
+		* all nodes have even degrees 
+		* you can go back to where you started
+	* Euler Path
+		* only one way path
+		* exactly 2 nodes with odd degree
+	* Euler's Formula
+			
+				r=e-v+2
+			
+	* Hamilton Circuit
+		* circuit passes through every vertex exactly once.
+	* Hamilton Path
+		* path passes through every vertex exactly once.
+	* Matrices of Graphs
+	* Isomorphism of Graphs
+	* Planar Graph
+		* drawn in the plane without edges having to cross.
+	* Nonplanar Graph
+		* when everything is interconnected to one another
+  ##Week 13:
+   -May the odds be so ever in my favor
