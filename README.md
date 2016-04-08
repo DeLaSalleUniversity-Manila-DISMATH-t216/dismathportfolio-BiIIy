@@ -461,7 +461,7 @@ dismathportfolio-fidesbetito created by Classroom for GitHub
 		* process where stream characters making up the source program which read from left to right.
 	* Token 
 		* where the program makes sense.
-		* 
+
 ## **Week 14:**
-	-Pray To God, Hear Mass, Buy all Lucky Charms, Pray to Allah, Pray to Budda, Meditate, Preach the Word of God, Make a deal with the Devil, and lastly... HOPE THAT AFTER THIS WEEK MY BRAIN WILL STILL BE WORKING.
-	-Submitted DISMATH project
+	-* Pray To God, Hear Mass, Buy all Lucky Charms, Pray to Allah, Pray to Budda, Meditate, Preach the Word of God, Make a deal with the Devil, and lastly... HOPE THAT AFTER THIS WEEK MY BRAIN WILL STILL BE WORKING.
+	-* Submitted DISMATH project
